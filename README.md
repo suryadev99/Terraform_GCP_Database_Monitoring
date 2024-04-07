@@ -1,4 +1,6 @@
-## Terraform DBRE Task - Provisioning resources in GCP using Terraform
+## Provisioning resources in GCP using Terraform
+![image](https://github.com/suryadev99/Terraform_GCP_Database_Monitoring/assets/81183603/df69fc5a-b465-4b13-9fa5-c5995daf9307)
+
 ##### We will use Terraform to define the infrastructure as code in GCP. 
 ###### Here is an outline of the files in the repository:
 - main.tf: This file contains the main Terraform code for provisioning the resources in GCP. 
