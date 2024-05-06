@@ -79,7 +79,6 @@ variable "compute_instance_disk_size" {
   description = "disk size of compute instance"
 }
 
-
 variable "google_credentials" {
   description = "The path to the Google Cloud Platform credentials file"
 }
