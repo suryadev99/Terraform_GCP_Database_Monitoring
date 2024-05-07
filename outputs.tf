@@ -3,6 +3,7 @@ output "postgres_instance_ip" {
   sensitive = true
 }
 
+
 output "backup_bucket_name" {
   value = google_storage_bucket.backup.name
 }
